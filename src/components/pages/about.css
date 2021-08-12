@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+
+.about-section {
+    padding-top: 10%;
+    padding-left: 200px;
+    padding-right: 150px;
+}
+
+
+.about-section hr{
+    border: 2px solid;
+    background-color: black;
+}
+
+.about-label {
+    padding-bottom: 3%;
+}
+
+.about-text {
+    background-color: grey;
+    border-radius: 44px;
+    padding: 50px;
+}
+
