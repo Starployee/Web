@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# **Bem-vindos a Starployee!!** 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é o nosso projeto em WEB, feito em react.
 
 ## Available Scripts
 
