@@ -13,8 +13,4 @@ Nós somos a Starployee, uma rede social empresarial focada na aliança entre st
 
 ## Objetivos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Nosso projeto visa trazer o matching (conceito de juntar pessoas por meio de seus interesses pessoais) para o mundo de startups. Faremos isso por meio de uma rede social que permite os candidatos a participar dessas companhias a partir destes parâmetros pessoais, assim como suas experiências.
